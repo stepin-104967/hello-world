@@ -1,3 +1,3 @@
 # hello-world
 
-learning to coomit 
+learning to commit 
